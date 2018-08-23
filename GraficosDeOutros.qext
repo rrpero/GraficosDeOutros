@@ -1,0 +1,15 @@
+{
+	"name":"GraficosDeOutros",
+	"description":"Selecione gráficos  de outros aplicaivos para ser mostrado, dado  uma lista",
+	"icon":"extension",
+	"type":"visualization",
+	"version":"1.0.0",
+	"author":"Ruben Albuquerque",
+	"homepage": "",
+	"keywords": "qlik-sense, visualization",
+	"license": "",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
